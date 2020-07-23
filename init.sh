@@ -1,4 +1,3 @@
 #! /bin/bash
 
-BASEDIR = "test.py"
-export BASEDIR
+export BASEDIR = "test.py"
