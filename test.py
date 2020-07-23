@@ -1,4 +1,4 @@
 print('hey')
 print('HEYO')
 print('pleasdeee')
-print('lindgrenar helped me a ton')
+print('lindgrenar helped me a to')
