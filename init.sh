@@ -1,1 +1,1 @@
-BASEDIR = "filename"
+BASEDIR = "index.py"
