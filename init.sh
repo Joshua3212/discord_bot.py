@@ -1,4 +1,4 @@
 #! /bin/bash
 
-export BASEDIR="test.py"
-export REQUIREMENTS="requirements2.txt"
+export BASEDIR="index.py"
+export REQUIREMENTS="requirements.txt"
