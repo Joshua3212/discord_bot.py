@@ -1,3 +1,6 @@
 import os
+import sleep
 
-print("fuck")
+while True:
+  print("fuck")
+  sleep(10)
