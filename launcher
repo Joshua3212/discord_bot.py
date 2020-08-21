@@ -1,1 +1,2 @@
 launch: python3 fuck.py
+launch: python3 main.py
