@@ -1,4 +1,4 @@
 import time
 
-print("hey")
-print("some changes
+while True:
+  time.sleep(10)
