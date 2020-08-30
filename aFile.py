@@ -1,5 +1,7 @@
 import time
 
 while True:
-  time.sleep(10)
-  print("it works!")
+  f = open("demofile2.txt", "a")
+  f.write("Now the file has more content!")
+  f.close()
+  time.sleep(5)
