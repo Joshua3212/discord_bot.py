@@ -1,2 +1,3 @@
 launch: python3 aFile.py
 launch: python3 main.py
+static: .
